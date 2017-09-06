@@ -6,15 +6,11 @@ $b= 10;
 
 if($a > $b){
 	echo "a es mayor que b";
-}
-
-else if($a == $b){
+} else if($a == $b){
 
 	echo "a es igual que b";
-
-}
-
-else{
+	
+}else{
 
 	echo "a es menor que b";
 
